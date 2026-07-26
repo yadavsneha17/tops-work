@@ -1,0 +1,5 @@
+name=input("enter a name ")
+department=input("enter department ")
+designation=input("enter designation ")
+salary=input("enter a salary ")
+print(name,department,designation,salary,sep='--')
